@@ -1,0 +1,31 @@
+'HTML5 vast majority of web pages because it use very good command  they offer helpful alternatives to the <div> element
+and ensure older browsers recognize these elements.'
+
+**HTML5 introduces a new set of elements that allow you to divide up the
+parts of a page. The names of these elements indicate the kind of content
+you will find in them. They are still subject to change, but that has not
+stopped many web page authors using them already.**
+
+
+
+>jQuery is an example of what programmers call a JavaScript library. It is a JavaScript
+file that you include in your page, which then lets you use the functions, objects,
+methods, and properties it contains. The concept of a library is that it al lows you 
+to borrow code from one fil e and use its functions, objects, methods, and properties in another script.
+
+
+
+1.Users can add new list items. 
+1.They can also cl ick to indicate that an item is complete 
+1.once an item is marked as comp 1 ete, a second click on the item will remove it from the list. 
+
+
+
+There is a conditional statement to check whether the list item is:
+1.Not complete - in which case, the click is used to change the item to complete, move it to the bottom of the list,and update the counter. 
+1.Complete - in which case, the second cl ick on the item fades it out and removes it from the list altoget her.
+
+
+>Query is a JavaScript  easier to write cross-browser JavaScript, based on two steps: 
+Using CSS-style selectors to collect one or more nodes from the DOM tree. 
+Using jQuery's built-in methods to work with the elements in that selection.
